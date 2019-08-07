@@ -1,4 +1,4 @@
-Official Grocery Management System – Chidumga Izuzu (P21795993)
+Official Grocery Management System â€“
 This project is my work on a grocery store management system which was created with PHP and MYSQL, using XAMPP AND PHPMYADMIN.
 
 Getting Started
@@ -19,13 +19,13 @@ Getting Started
 
 8.	Copy the CLERK folder to htdocs in the Xammp folder. 
 
-9.	Load the grocery_stores.sql database (this can be found in the ‘SQL Folder’) to PHPMYADMIN using import in PHPMYADMIN in local server. 
+9.	Load the grocery_stores.sql database (this can be found in the â€˜SQL Folderâ€™) to PHPMYADMIN using import in PHPMYADMIN in local server. 
 
-10.	 To view the web application, type in ‘localhost:8080/clerk/login.php. 
+10.	 To view the web application, type in â€˜localhost:8080/clerk/login.php. 
 
 11.	This will direct you to the login page. The login details are username: dumgaizuzu@gmail.com and password: Salva
 
-12.	Once you’ve logged in, you will be directed to the homepage, which has the options for inserting, editing and updating data. 
+12.	Once youâ€™ve logged in, you will be directed to the homepage, which has the options for inserting, editing and updating data. 
 
 13.	When you insert info into any of the tables, you would be redirected to the display table which has all the information and also allows you to edit or delete data.  
 For more information, please send me an email: Chidumgaizuzu@gmail.com
